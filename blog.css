@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.blog-post {
+    margin-bottom: 40px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+}
+
+.blog-post-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.blog-post-date {
+    font-size: 12px;
+    color: #888;
+    margin-bottom: 10px;
+}
+
+.blog-post-snippet {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.read-more-link {
+    display: inline-block;
+    font-size: 14px;
+    color: #007bff;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.read-more-link:hover {
+    text-decoration: underline;
+}
